@@ -41,9 +41,11 @@ Kalian bebas berekspresi bagaimana pun dengan sistem tersebut, bisa menambahkan 
 - menghapus item
 - fungsi lainnya yang keren
 
-
 ## Waktu dan Tempat Pengumpulan
 Tenggat waktu pengerjaan tugas adalah `h-1` masuk kelas
 Tempat pengumpulan di `spreadsheet` kelompok
+
+Tampilan CLI :
+![image](https://github.com/user-attachments/assets/fe1ac6d1-cc07-4bd4-a6f0-ab66015a250f)
 
 
