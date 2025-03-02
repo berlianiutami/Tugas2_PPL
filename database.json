@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1712345678901,
+        "title": "Inception",
+        "year": "2010",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": 1712345678902,
+        "title": "Interstellar",
+        "year": "2014",
+        "genre": "Sci-Fi"
+    }
+]
