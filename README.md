@@ -4,7 +4,7 @@
 Nama Kelompok :
 1. Berliani Utami          : 2208107010082
 2. Raihan Firyal           : 2208107010084
-3. Riska JAqika Situmorang : 2208107010086
+3. Riska haqika Situmorang : 2208107010086
 
 ## Sistem Database Sederhana
 
